@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dc39fb7-cfe3-4cb6-a229-dc223425744a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cn/huawei/MainApp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/HelloController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cn/huawei/controller/HelloController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="springboot01" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot01" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cn.huawei.MainApp" />
+      <module name="springboot01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cn.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cn.huawei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.huawei.MainApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApp" />
+        <item itemvalue="Spring Boot.MainApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc39fb7-cfe3-4cb6-a229-dc223425744a" name="Default Changelist" comment="" />
+      <created>1562421021001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562421021001</updated>
+      <workItem from="1562421024534" duration="8671000" />
+      <workItem from="1562433531214" duration="26000" />
+      <workItem from="1562433705057" duration="93000" />
+      <workItem from="1562433892652" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8864000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="JRebel" order="0" side_tool="true" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="4" weight="0.6885759" />
+      <window_info id="Learn" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5067114" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3808725" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32885906" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Bean Validation" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>(new AutoConfigurationPackages.PackageImport(metadata)).getPackageName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>new AutoConfigurationPackages.PackageImport(metadata)).getPackageName()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.6.RELEASE/spring-boot-dependencies-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1512">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.1.6.RELEASE/spring-boot-starter-parent-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#hello#0;class#HelloController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/ImportAutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackages.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+          <folding>
+            <element signature="e#0#6038#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#AutoConfigurationPackages#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#has#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#get#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#register#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#addBasePackages#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#BasePackages#0;class#BasePackages#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#get#0;class#BasePackages#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#PackageImport#0;class#PackageImport#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#equals#0;class#PackageImport#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#hashCode#0;class#PackageImport#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#toString#0;class#PackageImport#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#Registrar#0;class#Registrar#0;class#AutoConfigurationPackages#0" expanded="true" />
+            <element signature="method#determineImports#0;class#Registrar#0;class#AutoConfigurationPackages#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.8.RELEASE/spring-context-5.1.8.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationPackage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.6.RELEASE/spring-boot-2.1.6.RELEASE.jar!/org/springframework/boot/SpringBootConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="461" selection-start-line="461" selection-end-line="461" />
+          <folding>
+            <element signature="e#0#28642#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="method#WebMvcAutoConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#hiddenHttpMethodFilter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#formContentFilter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#OptionalPathExtensionContentNegotiationStrategy#0;class#OptionalPathExtensionContentNegotiationStrategy#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#resolveMediaTypes#0;class#OptionalPathExtensionContentNegotiationStrategy#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#ResourceChainResourceHandlerRegistrationCustomizer#0;class#ResourceChainResourceHandlerRegistrationCustomizer#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#customize#0;class#ResourceChainResourceHandlerRegistrationCustomizer#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#configureResourceChain#0;class#ResourceChainResourceHandlerRegistrationCustomizer#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#getVersionResourceResolver#0;class#ResourceChainResourceHandlerRegistrationCustomizer#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#ResourceChainCustomizerConfiguration#0;class#ResourceChainCustomizerConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#resourceHandlerRegistrationCustomizer#0;class#ResourceChainCustomizerConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#EnableWebMvcConfiguration#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#requestMappingHandlerAdapter#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#createRequestMappingHandlerAdapter#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#requestMappingHandlerMapping#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#mvcConversionService#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#mvcValidator#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#createRequestMappingHandlerMapping#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#getConfigurableWebBindingInitializer#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#createExceptionHandlerExceptionResolver#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#configureHandlerExceptionResolvers#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#mvcContentNegotiationManager#0;class#EnableWebMvcConfiguration#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#configureMessageConverters#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#configureAsyncSupport#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#configurePathMatch#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#configureContentNegotiation#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#defaultViewResolver#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#beanNameViewResolver#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#viewResolver#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#localeResolver#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#getMessageCodesResolver#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#addFormatters#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#getBeansOfType#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#addResourceHandlers#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#getSeconds#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#welcomePageHandlerMapping#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#getResourceLocations#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#getWelcomePage#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#getIndexHtml#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#isReadable#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#customizeResourceHandlerRegistration#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#requestContextFilter#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#FaviconConfiguration#0;class#FaviconConfiguration#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#faviconHandlerMapping#0;class#FaviconConfiguration#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#faviconRequestHandler#0;class#FaviconConfiguration#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+            <element signature="method#resolveFaviconLocations#0;class#FaviconConfiguration#0;class#WebMvcAutoConfigurationAdapter#0;class#WebMvcAutoConfiguration#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="133" column="60" selection-start-line="133" selection-start-column="60" selection-end-line="133" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.8.RELEASE/spring-core-5.1.8.RELEASE.jar!/org/springframework/core/io/support/SpringFactoriesLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="73" column="86" selection-start-line="73" selection-start-column="86" selection-end-line="73" selection-end-column="86" />
+          <folding>
+            <element signature="method#loadFactoryNames#0;class#SpringFactoriesLoader#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="109" column="68" selection-start-line="109" selection-start-column="68" selection-end-line="109" selection-end-column="68" />
+          <folding>
+            <element signature="method#selectImports#0;class#AutoConfigurationImportSelector#0" expanded="true" />
+            <element signature="method#getAutoConfigurationEntry#0;class#AutoConfigurationImportSelector#0" expanded="true" />
+            <element signature="method#getSpringFactoriesLoaderFactoryClass#0;class#AutoConfigurationImportSelector#0" expanded="true" />
+            <element signature="method#process#0;class#AutoConfigurationGroup#0;class#AutoConfigurationImportSelector#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="25" column="14" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.6.RELEASE/spring-boot-starter-web-2.1.6.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/huawei/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#hello#0;class#HelloController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/huawei/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+  </component>
+</project>
