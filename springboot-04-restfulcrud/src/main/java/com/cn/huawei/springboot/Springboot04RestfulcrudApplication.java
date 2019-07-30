@@ -15,7 +15,6 @@ public class Springboot04RestfulcrudApplication {
         SpringApplication.run(Springboot04RestfulcrudApplication.class, args);
     }
 
-
     // 自定义视图解析器
     @Bean
     public ViewResolver getMyViewResolver(){
