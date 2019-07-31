@@ -9,12 +9,14 @@
  */
 package com.cn.huawei.springboot.controller;
 
+import com.cn.huawei.springboot.dao.DepartmentDao;
 import com.cn.huawei.springboot.dao.EmployeeDao;
+import com.cn.huawei.springboot.entities.Department;
 import com.cn.huawei.springboot.entities.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.Collection;
 
@@ -31,6 +33,8 @@ public class EmployeeController {
 
     @Autowired
     private EmployeeDao employeeDao;
+    @Autowired
+    private DepartmentDao departmentDao;
 
     @GetMapping("/emps")
     public String list(Model model){
@@ -41,5 +45,50 @@ public class EmployeeController {
 
         // themreaf模板引擎渲染 classpath:/templates/xxx..html
         return "/emp/list";
+    }
+
+    // 跳转到新增员工页面
+    @GetMapping("/emp")
+    public String goAdd(Model model){
+        // 获取员工部门数据
+        Collection<Department> departments = departmentDao.getDepartments();
+        model.addAttribute("departs", departments);
+        return "/emp/add";
+    }
+
+    // 保存
+    @PostMapping("/emp")
+    public String saveEmployee(Employee employee){
+        employeeDao.save(employee);
+
+        return "redirect:/emps";
+    }
+
+    // 去修改页面
+    @GetMapping("/emp/{id}")
+    public String goUpdate(@PathVariable("id") Integer id, Model model){
+        // 获取修改的员工数据
+        Employee employee = employeeDao.get(id);
+        model.addAttribute("emp", employee);
+        // 获取员工部门数据
+        Collection<Department> departments = departmentDao.getDepartments();
+        model.addAttribute("departs", departments);
+
+        return "/emp/add";
+    }
+
+    @PutMapping("/emp")
+    public String updateEmployee(Employee employee){
+        employeeDao.save(employee);
+
+        return "redirect:/emps";
+    }
+
+    // 删除员工数据
+    @DeleteMapping("/emp/{id}")
+    public String deleteEmployee(@PathVariable("id") Integer id){
+        employeeDao.delete(id);
+
+        return "redirect:/emps";
     }
 }
